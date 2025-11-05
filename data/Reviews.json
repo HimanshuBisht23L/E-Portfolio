@@ -1,0 +1,62 @@
+[
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Sophia Martinez",
+        "review": "Amazing experience! The interface was intuitive and easy to use. Highly recommended.",
+        "date": "2025-10-12"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "James Anderson",
+        "review": "The app exceeded my expectations. Smooth performance and beautiful design.",
+        "date": "2025-09-28"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Ava Thompson",
+        "review": "Had a few minor bugs but overall a very well-built project. Loved the attention to detail!",
+        "date": "2025-09-15"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Liam Johnson",
+        "review": "Very user-friendly and visually appealing. Great job with the animations!",
+        "date": "2025-08-30"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Isabella Wilson",
+        "review": "I’ve been using it daily! The updates keep making it better and better.",
+        "date": "2025-08-10"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Noah Brown",
+        "review": "Solid performance and great concept. Could use a dark mode though!",
+        "date": "2025-07-25"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Olivia Davis",
+        "review": "Really impressed with how responsive it is across all devices. Nicely done!",
+        "date": "2025-07-02"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Ethan Garcia",
+        "review": "Love the clean UI and smooth navigation. Feels very professional.",
+        "date": "2025-06-18"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "Mia Rodriguez",
+        "review": "Excellent work! The attention to small UX details makes a big difference.",
+        "date": "2025-06-05"
+    },
+    {
+        "imgURL": "https://randomuser.me/api/portraits/men/56.jpg",
+        "name": "William Taylor",
+        "review": "Everything worked flawlessly. Great concept and well executed project!",
+        "date": "2025-05-19"
+    }
+]

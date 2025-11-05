@@ -1,0 +1,74 @@
+[
+    {
+        "index": 1,
+        "title": "CTF Site",
+        "imageURL": "../public/Projects/CTFSite.png",
+        "frontend": "React",
+        "backend": "Auth0",
+        "desc": "A CTF site created for the CTF event. It includes question and files which user has to deocode and give flag."
+    },
+    {
+        "index": 2,
+        "title": "FitnessUI Website",
+        "imageURL": "../public/Projects/fitnessUi.png",
+        "frontend": "React",
+        "backend": "Node.js",
+        "desc": "A full MERN stack project, in which user gets daily tasks according to his/her level and level increases as user completes the daily tasks."
+    },
+    {
+        "index": 3,
+        "title": "Transport & Logistics Site",
+        "imageURL": "../public/Projects/TLM.png",
+        "frontend": "React",
+        "backend": "Socket.io",
+        "desc": "A modern Transport and Logisitcs Management site which has user and admin routes, ecompasses with socket.io for live tracking of driver location."
+    },
+    {
+        "index": 4,
+        "title": "Sketch Code",
+        "imageURL": "../public/Projects/SketchCode.png",
+        "frontend": "Gemini-API",
+        "backend": "React-Flow",
+        "desc": "A flow chart to code converter site which is used for better and easy learning of codes."
+    },
+    {
+        "index": 5,
+        "title": "Speech 2 Text",
+        "imageURL": "../public/Projects/S2T.png",
+        "frontend": "HTML/CSS",
+        "backend": "Javascript",
+        "desc": "A simple Speech to Text and Text to Speech converter using pure javascript."
+    },
+    {
+        "index": 6,
+        "title": "TODO Site",
+        "imageURL": "../public/Projects/todosite.png",
+        "frontend": "HTML/CSS",
+        "backend": "Javascript",
+        "desc": "A stylish todo site using HTML/CSS and Javascript and use of localStorage."
+    },
+    {
+        "index": 7,
+        "title" : "GraphSortVisu (Visualizer)",
+        "imageURL": "../public/Projects/Visulizer.png",
+        "frontend": "Canvas",
+        "backend": "DSA",
+        "desc": "A user friendly and easy to understand sorting visualizer in which user can learn sorting by visulizing."
+    },
+    {
+        "index": 8,
+        "title" : "Weather Finder",
+        "imageURL": "../public/Projects/WeatherSite.png",
+        "frontend": "Javascript",
+        "backend": "Weather API",
+        "desc": "A Normal weather finder site using gemini API, which takes city as input and tell out the weather of that city."
+    },
+    {
+        "index": 9,
+        "title" : "E-Portfolio",
+        "imageURL": "../public/Projects/portfolio.png",
+        "frontend": "Tailwind",
+        "backend": "Google Script",
+        "desc": "My E-Portfoilio for showcasing my web journey with some of my cool projects."
+    }
+]
