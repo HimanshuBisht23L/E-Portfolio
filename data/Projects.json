@@ -1,6 +1,14 @@
 [
     {
         "index": 1,
+        "title": "Diseasify",
+        "imageURL": "../Projects/Diseasify.png",
+        "frontend": "Next.js",
+        "backend": "Python FastAPI",
+        "desc": "An AI-powered agriculture platform that helps farmers diagnose crop diseases, analyze soil conditions, track weather, and make informed farming decisions using image-based analysis and intelligent recommendations."
+    },
+    {
+        "index": 2,
         "title": "CTF Site",
         "imageURL": "../Projects/CTFSite.png",
         "frontend": "React",
@@ -8,7 +16,7 @@
         "desc": "A CTF site created for the CTF event. It includes question and files which user has to deocode and give flag."
     },
     {
-        "index": 2,
+        "index": 3,
         "title": "FitnessUI Website",
         "imageURL": "../Projects/fitnessUi.png",
         "frontend": "React",
@@ -16,7 +24,7 @@
         "desc": "A full MERN stack project, in which user gets daily tasks according to his/her level and level increases as user completes the daily tasks."
     },
     {
-        "index": 3,
+        "index": 4,
         "title": "Transport & Logistics Site",
         "imageURL": "../Projects/TLM.png",
         "frontend": "React",
@@ -24,7 +32,7 @@
         "desc": "A modern Transport and Logisitcs Management site which has user and admin routes, ecompasses with socket.io for live tracking of driver location."
     },
     {
-        "index": 4,
+        "index": 5,
         "title": "Sketch Code",
         "imageURL": "../Projects/SketchCode.png",
         "frontend": "Gemini-API",
@@ -32,7 +40,7 @@
         "desc": "A flow chart to code converter site which is used for better and easy learning of codes."
     },
     {
-        "index": 5,
+        "index": 6,
         "title": "Speech 2 Text",
         "imageURL": "../Projects/S2T.png",
         "frontend": "HTML/CSS",
@@ -40,7 +48,7 @@
         "desc": "A simple Speech to Text and Text to Speech converter using pure javascript."
     },
     {
-        "index": 6,
+        "index": 7,
         "title": "TODO Site",
         "imageURL": "../Projects/todosite.png",
         "frontend": "HTML/CSS",
@@ -48,24 +56,24 @@
         "desc": "A stylish todo site using HTML/CSS and Javascript and use of localStorage."
     },
     {
-        "index": 7,
-        "title" : "GraphSortVisu (Visualizer)",
+        "index": 8,
+        "title": "GraphSortVisu (Visualizer)",
         "imageURL": "../Projects/Visulizer.png",
         "frontend": "Canvas",
         "backend": "DSA",
         "desc": "A user friendly and easy to understand sorting visualizer in which user can learn sorting by visulizing."
     },
     {
-        "index": 8,
-        "title" : "Weather Finder",
+        "index": 9,
+        "title": "Weather Finder",
         "imageURL": "../Projects/WeatherSite.png",
         "frontend": "Javascript",
         "backend": "Weather API",
         "desc": "A Normal weather finder site using gemini API, which takes city as input and tell out the weather of that city."
     },
     {
-        "index": 9,
-        "title" : "E-Portfolio",
+        "index": 10,
+        "title": "E-Portfolio",
         "imageURL": "../Projects/portfolio.png",
         "frontend": "Tailwind",
         "backend": "Google Script",
