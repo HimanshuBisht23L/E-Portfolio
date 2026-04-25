@@ -165,7 +165,7 @@ export default function HomePage() {
                         </div>
 
                         <div className="md:w-2/3 md:pl-12" data-aos="fade-left">
-                            <h3 className="text-2xl font-bold mb-4">Who am I?</h3>
+                            <h3 className="text-2xl font-bold mb-4">Who am I ?</h3>
                             <p className="text-gray-600 mb-6">
                                 I'm a passionate designer and developer with over 2 years of experience creating websites. My approach combines aesthetic sensibility with technical expertise to deliver solutions that are both beautiful and functional.
                             </p>
