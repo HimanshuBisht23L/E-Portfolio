@@ -1,4 +1,5 @@
 import { Menu } from "react-feather"
+import { Link } from "react-router-dom"
 
 function Navbar({ mobileOpen, setMobileOpen, handleNavClick }) {
     return (
@@ -34,6 +35,9 @@ function Navbar({ mobileOpen, setMobileOpen, handleNavClick }) {
                         <a href="#contact" onClick={(e) => handleNavClick(e, "contact")} className="text-gray-700 hover:text-indigo-600 transition">
                             Contact
                         </a>
+                        <Link to="/learning" className="text-gray-700 hover:text-indigo-600 transition">
+                            Learning
+                        </Link>
                     </div>
 
                     <div className="md:hidden flex items-center">
@@ -56,6 +60,7 @@ function Navbar({ mobileOpen, setMobileOpen, handleNavClick }) {
                 <a href="#projects" onClick={(e) => handleNavClick(e, "projects")} className="block py-2 text-gray-700 hover:text-indigo-600 transition">Projects</a>
                 <a href="#skills" onClick={(e) => handleNavClick(e, "skills")} className="block py-2 text-gray-700 hover:text-indigo-600 transition">Skills</a>
                 <a href="#contact" onClick={(e) => handleNavClick(e, "contact")} className="block py-2 text-gray-700 hover:text-indigo-600 transition">Contact</a>
+                <Link to="/learning" className="block py-2 text-gray-700 hover:text-indigo-600 transition font-medium">Learning</Link>
             </div>
         </nav>
     )

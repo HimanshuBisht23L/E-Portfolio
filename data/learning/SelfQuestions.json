@@ -1,0 +1,116 @@
+[
+    {
+        "Ques": "Q1. Define strengths and weaknesses each in a sentence.",
+        "Answer": {
+            "Strength" : {
+                "subhead" : "Strength : ",
+                "subdata" : " Strength is the ability to perform well in a particular area, like problem-solving, communication, or adaptability."
+            },
+            "Weakness" : {
+                "subhead" : "Weakness : ",
+                "subdata" : "Weakness is something that needs improvement, but with effort, it can turn into a strength."
+            }
+        }
+    },
+    {
+        "Ques": "Q2. In your opinion, what is your greatest weakness?",
+        "Answer": "I sometimes overthink things and I Can't say NO Which creates trouble sometimes for Me."
+    },
+    {
+        "Ques": "Q3. What do people most often criticize about you?",
+        "Answer": "Some say I talk too much even in serious situation, but I feel that’s myself, that's my Nature."
+    },
+    {
+        "Ques": "Q4. What is the biggest criticism you have received from different people?",
+        "Answer": {
+            "Parents": {
+                "subhead" : "Parents : ",
+                "subdata" : "They say I overthink too much."
+            },
+
+            "Siblings": {
+                "subhead" : "Siblings : ",
+                "subdata" :"They feel I do not take things too seriously."
+            },
+
+            "Relatives": {
+                "subhead" : "Relatives : ",
+                "subdata" : "They say I should be in fashion as now Generation."
+            },
+
+            "Friends": {
+                "subhead" : "Friends : ",
+                "subdata" : "They say I always study and don’t have enough fun."
+            },
+
+            "Teachers":{
+                "subhead" : "Teachers : ",
+                "subdata" : "Told me to speak louder and share my thoughts confidently."
+            } 
+        }
+    },
+    {
+        "Ques": "Q5. What do you find is the most difficult decision and why?",
+        "Answer": "I find it difficult choosing between different priorities, especially when everything seems important. I try to handle it by thinking about what will have the best long-term outcome."
+    },
+    {
+        "Ques": "Q6. How do you handle failure?",
+        "Answer": "Firstly I become sad that time but gradually overcome to that failure and try to do that work again."
+    },
+    {
+        "Ques": "Q7. How do you handle success?",
+        "Answer": "I  celebrate with family and friends. But after that, I focus on what’s next and how I can keep improving."
+    },
+    {
+        "Ques": "Q8. How do you view yourself - calm, aggressive, patient, impatient, dominant, confident, submissive, social, reserved—and why?",
+        "Answer": "I am generally impatient and submassive because I can't wait for the result of any work and submassive for my parents and my loved one's."
+    },
+    {
+        "Ques": "Q9. Who do you compare yourself to and why?",
+        "Answer": "I do not compare myself to anyone but I see other who are better than me and i try to learn from them."
+    },
+    {
+        "Ques": "Q10. What major challenges have you faced so far and how did you handle them?",
+        "Answer": "Till now I don't have face any challenges but I love to face once in life."
+    },
+    {
+        "Ques": "Q11. What was the biggest compliment you have received so far?",
+        "Answer": "Nothing."
+    },
+    {
+        "Ques": "Q12. What motivates you professionally and personally?",
+        "Answer": {
+            "Professionally": {
+                "subhead" : "Professionally : ",
+                "subdata" : "I feel motivated when I solve some problem with my own without any help of other person or internet."
+            },
+
+            "Personally": {
+                "subhead" : "Personally : ",
+                "subdata" : "My family and friends motivate me."
+            }
+        }
+    },
+    {
+        "Ques": "Q13. What is your greatest strength?",
+        "Answer": "My strength is Honesty, but Not for those who don't deserve "
+    },
+    {
+        "Ques": "Q14. How will your strength(s) help you move ahead in life & be successful?",
+        "Answer": "Being Honest is a self-succesfull thing but this also leads me to my success by gaining other's trust."
+    },
+    {
+        "Ques": "Q15. What have you achieved on the basis of your strength(s)?",
+        "Answer": "As Honesty is my strength so by this I Have achieved my parents trust on me."
+    },
+    {
+        "Ques": "Q16. What have you learned from your mistakes?",
+        "Answer": [
+            "Talking too much sometimes make barrier between loved one's.",
+            "Taking action rather than overthinking is better."
+        ]
+    }
+]
+
+
+

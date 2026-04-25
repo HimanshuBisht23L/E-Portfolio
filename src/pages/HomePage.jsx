@@ -159,7 +159,7 @@ export default function HomePage() {
                         <div className="md:w-1/3 mb-10 md:mb-0 flex justify-center" data-aos="fade-right">
                             <div className="relative">
                                 <div className="w-64 h-64 bg-linear-to-br from-blue-100 to-purple-100 rounded-2xl overflow-hidden shadow-lg">
-                                    <img src="../../Images/Me.jpg" alt="About" className="w-full h-full object-cover" />
+                                    <img src="../../Images/photo.jpeg" alt="About" className="w-full h-full object-cover" />
                                 </div>
                             </div>
                         </div>
@@ -213,7 +213,7 @@ export default function HomePage() {
                             </div>
 
                             <a
-                                href="/files/Resume.docx"
+                                href="/files/Resume2026.pdf"
                                 className="inline-flex items-center text-indigo-600 hover:text-indigo-800"
                                 download
                             >
